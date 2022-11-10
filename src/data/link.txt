@@ -1,0 +1,9 @@
+https://reactjs.org/docs/thinking-in-react.html
+
+CONSIGNA
+-------------
+tentativa parcial
+----------------
+Crear una aplicacion que muestre el listado con los nombres de los repositorios de github de un usuario (data.json)
+crear una funcionalidad que permita seleccionar un repositorio
+crear un componente que muestre los detalles del repositorio seleccionado
